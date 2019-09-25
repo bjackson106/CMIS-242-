@@ -1,2 +1,2 @@
-# CMIS-242-
-7380 Intermediate Programming 2019
+# Intermediate Programming (CMIS 242)
+
