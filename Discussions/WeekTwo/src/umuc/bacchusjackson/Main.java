@@ -21,7 +21,7 @@ public class Main {
         // Create a Warning Logger Object
         WarningLogger wLogger = new WarningLogger();
 
-        // Prints message with WARNING prepended to it
+        // Prints message with WARNING  prepended to it
         wLogger.print("This is warning message from the Warning Logger subclass");
         wLogger.print("This is a second warning message");
 
