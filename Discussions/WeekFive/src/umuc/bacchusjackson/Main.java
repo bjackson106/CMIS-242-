@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
         int numberOfNodes = 11;
 
-        int recursiveTotal = countNodeLinksRecursive(numberOfNodes);
+        //int recursiveTotal = countNodeLinksRecursive(numberOfNodes);
 
-        System.out.println("Number of Node Links (Recursive): " + recursiveTotal);
+        //System.out.println("Number of Node Links (Recursive): " + recursiveTotal);
 
         int iterativeTotal = countNodeLinksIterative(numberOfNodes);
 
